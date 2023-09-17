@@ -1,7 +1,7 @@
 'use strict'
 
 const Obniz = require('obniz');
-const obniz = new Obniz("3823-2572");
+const obniz = new Obniz("6788-5157");
 
 
 

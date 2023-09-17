@@ -5,7 +5,7 @@ const express = require('express');
 const line = require('@line/bot-sdk');
 const PORT = process.env.PORT || 3000;
 const Obniz = require('obniz');
-const obniz = new Obniz("3823-2572");
+const obniz = new Obniz("6788-5157");
 
 const config = {
     channelSecret: '15302ba8f1361e2dbc0962d7fc4f8371',

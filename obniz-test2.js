@@ -1,5 +1,5 @@
 const Obniz = require('obniz');
-const obniz = new Obniz("3823-2572"); // obnizIDに自分のIDを入れます
+const obniz = new Obniz("6788-5157"); // obnizIDに自分のIDを入れます
 
 // obnizがオンラインであることが確認されたら、以下の関数内が自動で実行されます
 obniz.onconnect = async function () {
